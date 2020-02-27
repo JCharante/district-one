@@ -4,6 +4,8 @@
 
 *Last updated: February 26, 2020*
 
+*In the interest of full disclosure, this privacy policy is adapted from [Basecamp's Privacy Policy](https://github.com/basecamp/policies/blob/master/privacy/privacy-policy.md)*
+
 The privacy of your data — and it is your data, not ours! — is a big deal to us. We log all access to all accounts by IP address, so we can always protect against abuse.
 
 ## Identity & access
